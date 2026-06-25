@@ -22,7 +22,7 @@ ________________________________________
 
 ![Monthly Sales](Monthly%20Sales.png)
 
- ### Customer Behaviour
+ ### Customer behaviour
  
 ![Customer Behaviour](Customerbehaviour.png)
 
