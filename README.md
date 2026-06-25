@@ -12,6 +12,17 @@ Store/Branch Comparison
 Peak Sales Hours Identification
 Weekday vs Weekend Performance Analysis
 ________________________________________
+
+## Overview
+[Overview][Overview.png]
+
+
+
+## Monthly Sales
+[Monthly Sales][MonthlySales]
+
+
+
 🛠️ Tools & Technologies
 
 Power BI
