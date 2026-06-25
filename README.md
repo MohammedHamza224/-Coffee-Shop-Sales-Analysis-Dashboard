@@ -12,14 +12,15 @@ Store/Branch Comparison
 Peak Sales Hours Identification
 Weekday vs Weekend Performance Analysis
 ________________________________________
+ ## Dashboard
 
-## Overview
-[Overview][Overview.png]
+### Overview
 
+![Overview](Overview.png)
 
+### Monthly Sales
 
-## Monthly Sales
-[Monthly Sales][MonthlySales]
+![Monthly Sales](Monthly Sales.png)
 
 
 
