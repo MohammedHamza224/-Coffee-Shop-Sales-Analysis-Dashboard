@@ -27,6 +27,13 @@ ________________________________________
 ![Customer Behaviour](Customer%20behaviour.png)
 
 
+
+![Overview](Images/Overview.png)
+
+![Monthly Sales](Images/Monthly%20Sales.png)
+
+![Customer Behaviour](Images/Customer%20behaviour.png)
+
 🛠️ Tools & Technologies
 
 Power BI
